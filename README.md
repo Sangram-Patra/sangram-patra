@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Sangram-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sangram-yellow)](https://stackoverflow.com/users/20559869/sangram-patra?tab=profile)
 
-I'm
-UI Developer
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+<h2>I'm
+UI Developer</h2></br>
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Sangram-Patra/count.svg)
@@ -15,7 +15,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sangramdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sangram-Patra&column=7"/>
   </a>
 </div>
 
