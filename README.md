@@ -3,7 +3,7 @@
 <!-- [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Sangram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sangram-patra)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sangram-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sangram-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Sangram-yellow)](https://stackoverflow.com/users/20559869/sangram-patra?tab=profile)
 
 I'm
 UI Developer
